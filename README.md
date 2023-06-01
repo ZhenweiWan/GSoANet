@@ -1,9 +1,6 @@
 # Long-term Spatio-temporal Network  
 This is the implementation of Group Second-Order Aggregation Network for Video Action Recognition  
 Now in experimental release, suggestions welcome.
-## Paper  
-Zhenwei Wang, Wei Dong, Bingbing Zhang, and Jianxin Zhang. LSN: Long-term Spatio-temporal Network for Video Recognition.
- Accept by Neural Processing Letters
 ## Acknowledgments    
 * We thank the [TSN](https://github.com/yjxiong/temporal-segment-networks).
 ## Contact Information       
