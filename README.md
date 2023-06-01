@@ -1,4 +1,4 @@
-# Long-term Spatio-temporal Network  
+# Group Second-Order Aggregation Network 
 This is the implementation of Group Second-Order Aggregation Network for Video Action Recognition  
 Now in experimental release, suggestions welcome.
 ## Acknowledgments    
